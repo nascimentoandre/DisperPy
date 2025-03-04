@@ -34,6 +34,13 @@ conda create -n dp python=3.11 fastai obspy scikit-learn scipy
 
 ## Running the code
 
+First, clone the repository to your computer
+
+```sh
+git clone https://github.com/nascimentoandre/DisperPy.git
+cd DisperPy
+```
+
 The script `main.py` wrapps all the functions necessary to extract group
 dispersion, and to run it you simply need to provide the path to the directory
 containing the SAC files:
