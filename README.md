@@ -51,4 +51,6 @@ python main.py -f sample_data
 
 # Citation
 
-xxxxxxxx
+If you use DisperPy, please cite the following article:
+
+Nascimento, A. V. S., Chaves, C. A. M., Maciel, S. T. R., França, G. S., & Marotta, G. S. (2025). DisperPy: A machine learning based tool to automatically pick group velocity dispersion curves from earthquakes. Computers & Geosciences, Volume 205, 106015.
